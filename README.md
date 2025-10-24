@@ -13,6 +13,6 @@ To analyze employee attrition patterns and improve retention strategies.
 - <a href = "https://github.com/Koushik191003/PowerBI_Projects/blob/main/Attrition%20Analysis/DASHBOARD.png">Dashboard Visualization</a>
 - <a href = "https://github.com/Koushik191003/PowerBI_Projects/tree/main/Attrition%20Analysis">Analysis Overview</a>
 ## 4) Personal Finance Management Analysis
-To analyze and evaluate an individual’s yearly financial performance by comparing total income, expenses, and targets.
+To analyze the yearly financial performance by comparing total income, expenses, and targets.
 - <a href = "https://github.com/Koushik191003/PowerBI_Projects/blob/main/Personal%20Finance%20Management%20Analysis/DASHBOARD.png">Dashboard Visualization</a>
 - <a href = "https://github.com/Koushik191003/PowerBI_Projects/tree/main/Personal%20Finance%20Management%20Analysis">Analysis Overview</a>
