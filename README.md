@@ -7,4 +7,4 @@ Analyze bank customer demographics and account details to enhance customer reten
 ## 2) SuperMarket Sales Analysis
 To analyze the supermarket sales performance to support business decisions and improve overall profitability.
 - <a href = "https://github.com/Koushik191003/PowerBI_Projects/blob/main/SuperMarket%20Sales%20Analysis/DASHBOARD.png">Dashboard Visualization</a>
-- <a href = "">Analysis Overview</a>
+- <a href = "https://github.com/Koushik191003/PowerBI_Projects/tree/main/SuperMarket%20Sales%20Analysis">Analysis Overview</a>
