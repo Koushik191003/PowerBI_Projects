@@ -8,3 +8,7 @@ Analyze bank customer demographics and account details to enhance customer reten
 To analyze the supermarket sales performance to support business decisions and improve overall profitability.
 - <a href = "https://github.com/Koushik191003/PowerBI_Projects/blob/main/SuperMarket%20Sales%20Analysis/DASHBOARD.png">Dashboard Visualization</a>
 - <a href = "https://github.com/Koushik191003/PowerBI_Projects/tree/main/SuperMarket%20Sales%20Analysis">Analysis Overview</a>
+## 3) Attrition Analysis
+To analyze employee attrition patterns and improve retention strategies.
+- <a href = "https://github.com/Koushik191003/PowerBI_Projects/blob/main/Attrition%20Analysis/DASHBOARD.png">Dashboard Visualization</a>
+- <a href = "https://github.com/Koushik191003/PowerBI_Projects/tree/main/Attrition%20Analysis">Analysis Overview</a>
