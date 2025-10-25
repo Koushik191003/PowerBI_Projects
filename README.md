@@ -1,5 +1,5 @@
 # PowerBI_Projects
-A collection of my PowerBI projects demonstrating expertise in data visualization and analytics.
+Showcasing my PowerBI projects, featuring interactive dashboards, detailed reports, and actionable insights.
 ## 1) Bank Customer Analysis
 Analyze bank customer demographics and account details to enhance customer retention.
 - <a href = "https://github.com/Koushik191003/PowerBI_Projects/blob/main/Bank%20Customer%20Analysis/DASHBOARD.png">Dashboard Visualization</a>
