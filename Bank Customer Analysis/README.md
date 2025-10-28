@@ -17,7 +17,7 @@ This project focuses on key aspects such as customer engagement, credit card usa
    This visualization represents customers grouped by their credit score levels such as “Good,” “Very Good,” and “Excellent.” It helps the bank identify which credit groups are more likely to remain active or inactive.
 ### 5. Summary Cards
    The dashboard includes cards that provide a quick overview of total customers, active/inactive members, and credit card users. These cards make it easy to view the bank’s key statistics at a glance.
-## DAX Formulas used
+## DAX Formulas Used
 - Max_Credit = MAX(Bank[CreditScore])
 - Totalcustomer = COUNT(Bank[CustomerId])
 - Active Member = CALCULATE(COUNT(Bank[IsActiveMember]),KEEPFILTERS(Bank[IsActiveMember]=1))
