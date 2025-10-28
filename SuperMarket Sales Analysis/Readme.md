@@ -25,6 +25,10 @@ This chart illustrates sales performance across different hours of the day. It h
 ### 6. City and Branch Chart
 This visualization compares performance across cities and branches. It helps the management evaluate regional trends, ensuring balanced performance between physical stores and online delivery areas.
 
+## DAX Formulas used
+- Gross Income = SUM(Sales[gross income])
+- Product Sold = SUM('Sales'[Quantity])
+
 ## Conclusion
 The analysis indicates that both online and offline sales show stable performance across all branches and cities. Product lines like Electronic Accessories and Food & Beverages continue to perform well, while other categories offer potential for growth through targeted promotions. Customer satisfaction levels are strong, and the balanced gender ratio suggests wide customer appeal.
 To further improve performance based on this analysis:
