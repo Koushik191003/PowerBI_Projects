@@ -25,7 +25,7 @@ This chart illustrates sales performance across different hours of the day. It h
 ### 6. City and Branch Chart
 This visualization compares performance across cities and branches. It helps the management evaluate regional trends, ensuring balanced performance between physical stores and online delivery areas.
 
-## DAX Formulas used
+## DAX Formulas Used
 - Gross Income = SUM(Sales[gross income])
 - Product Sold = SUM('Sales'[Quantity])
 
