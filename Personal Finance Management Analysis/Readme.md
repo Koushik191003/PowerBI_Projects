@@ -24,6 +24,12 @@ The highest expense is Cleaning, followed by Other categories and consistent spe
 ### 5) Transaction Status
 Most payments are completed, but some are still Pending or Unpaid, indicating areas to improve payment follow-up and liquidity. Timely clearing of pending transactions will strengthen cash flow and improve overall financial efficiency.
 
+## DAX Formulas Used
+- Status Count = COUNT('Main Data'[Status])
+- Total Target = SUM('Income Goal'[Income Target])
+- Total Income = CALCULATE(SUM('Main Data'[Amount]),KEEPFILTERS('Main Data'[Income / Expense]="Income"))
+- Total Expense = CALCULATE(SUM('Main Data'[Amount]),KEEPFILTERS('Main Data'[Income / Expense]="Expenses"))
+
 ## Conclusion
 The analysis indicates a very strong financial position, with Total Income far outstripping Total Expense and greatly exceeding the Income Target. Income is well-diversified across multiple stable streams, and spending is mostly concentrated on essential services such as Cleaning and general maintenance. To further improve financial performance, the following steps are recommended:
 - Break down and categorize the large “Other” expenses to distinguish discretionary from necessary costs.
