@@ -21,6 +21,12 @@ This chart provides insights into how employees from different educational backg
 
 ### 5. Job Satisfaction Overview
 This visualization displays the overall job satisfaction level across employees. It indicates whether workplace culture, recognition, or growth opportunities are affecting employee morale and retention.
+## DAX Formulas Used
+- Average Age = AVERAGE(HR[Age])
+- Total Employee = COUNT(HR[Employee Count])
+- Percentage Attrition = DIVIDE([Employee Quit],[Total Employee],100)
+- Employee Quit = CALCULATE(COUNT(HR[CF_attrition label]),KEEPFILTERS(HR[CF_attrition label]="Ex-Employees"))
+- CurrentEmployee = CALCULATE(COUNT(HR[CF_attrition label]),KEEPFILTERS(HR[CF_attrition label]="Current Employees"))
 ## Conclusion
 The analysis highlights that employee attrition is concentrated in specific departments, with HR and R&D showing the highest turnover. Younger employees, particularly males in the 25–34 age range, and those from Life Sciences and Medical backgrounds, are the most vulnerable to leaving. Job satisfaction and career growth opportunities are key factors influencing their decision to exit.To reduce attrition and enhance employee retention, the organization should:
 
